@@ -1,5 +1,5 @@
 # Testimonials
-Testimonials of the Client company assignments which shared  for the Interviews!
+Testimonials of the Client companys assignments which shared for the Interviews!
 <table>
   <tr>
     <th>Company</th>
