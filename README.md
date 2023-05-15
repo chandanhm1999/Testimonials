@@ -35,7 +35,7 @@ Testimonials of the Client companys assignments which shared for the Interviews!
   <tr align="center">
     <td>Medpick</td>
     <td><a href="https://github.com/chandanhm1999/Data-Chart-Home-page-design">Git_Data_Echarts</a></td>
-     <td><a href="data-chart-home-page-design.vercel.app">Data Analytics</a></td>
+     <td><a href="https://data-chart-home-page-design.vercel.app/">Data Analytics</a></td>
     <td>India</td>
   </tr>
   <tr align="center">
