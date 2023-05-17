@@ -2,7 +2,6 @@
 > Testimonials of the Client companys assignments which shared for the Interviews!
 <table>
   <tr>
-    <th>SL No:</th>
     <th>Company</th>
     <th>Project Details!</th>
     <th>Live Link!</th>
